@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000535710904",
+    "project_id": "bisnez-385d6",
+    "storage_bucket": "bisnez-385d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000535710904:android:b776b121aa9533f24a284d",
+        "android_client_info": {
+          "package_name": "com.eti.bisnez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000535710904-l0ggicij6g1911cjm4m17svq70qs030j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0h-GQDbncdHu0S5DEgBgyiaSPU_NOvtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000535710904-l0ggicij6g1911cjm4m17svq70qs030j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
